@@ -1,39 +1,44 @@
 # Tip-Calculator-IOS-Application
 # Pre-work - *Name of App Here*
 
-**Name of your app** is a tip calculator application for iOS.
+**Name of your app** prework_Intermediate_IOS.
 
 Submitted by: **Noah Pilkington**
 
-Time spent: **10** hours spent in total
+Time spent: **12** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [- ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [- ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [-] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [-] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
-* [ -] UI animations
+* [-] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
-* [- ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [-] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-- [ -] List anything else that you can get done to improve the app functionality!
+- [-] List anything else that you can get done to improve the app functionality!
 - Added a Gif to the Homepage
 - Added a second page to be able to adjust settings ( Did not complete settings function)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+https://imgur.com/gallery/ppltvMT
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src=['http://i.imgur.com/link/to/your/gif/file.gif'](https://imgur.com/gallery/ppltvMT) title='Codepath IOS Prework '22' width='' alt='Video Walkthrough' />
+
+
+<img src= https://imgur.com/gallery/ufFxHTA title='Codepath IOS Prework2 '22' width='' alt='Video Walkthrough' />
+
+GIF created with [Adobe](https://www.adobe.com/express/feature/video/convert/video-to-gif).
 
 ## Notes
 
