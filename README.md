@@ -1,7 +1,7 @@
 # Tip-Calculator-IOS-Application
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip-Calculator-IOS-Application*
 
-**Name of your app** prework_Intermediate_IOS.
+**Name of your app** Tip-Calculator-IOS-Application.
 
 Submitted by: **Noah Pilkington**
 
