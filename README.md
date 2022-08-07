@@ -39,9 +39,15 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Some challenges I had with this project included trying to get the Second view-controller Field Labels to connect to the main view-controller. 
+Specifically, I wanted the user to have the ability to change the default values on the tip percentages segmented controller. 
+
+To do this, I had to connect the field Labels, to my Second ViewController, then create a function that will connect and update the tip values. 
+
+In addition, getting used to a different style of production was difficult. Typically, I am used to solely coding without visuals to aid me. So having to go back and forth was something I had to get used to. 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Noah Pilkington]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
