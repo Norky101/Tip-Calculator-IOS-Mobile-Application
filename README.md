@@ -33,10 +33,10 @@ Here's a walkthrough of implemented user stories:
 https://imgur.com/gallery/ppltvMT
 
 
-<img src=['http://i.imgur.com/link/to/your/gif/file.gif'](https://imgur.com/gallery/ppltvMT) title='Codepath IOS Prework '22' width='' alt='Video Walkthrough' />
+<img src=https://i.imgur.com/VwWuYez.mp4 title='Codepath IOS Prework '22' width='' alt='Video Walkthrough' />
 
 
-<img src= https://imgur.com/gallery/ufFxHTA title='Codepath IOS Prework2 '22' width='' alt='Video Walkthrough' />
+<img src= https://i.imgur.com/tbo4lCn.mp4 title='Codepath IOS Prework2 '22' width='' alt='Video Walkthrough' />
 
 GIF created with [Adobe](https://www.adobe.com/express/feature/video/convert/video-to-gif).
 
